@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13da3"
+  },
+  "Year": 1990,
+  "Counts": 196,
+  "Avg_Magnitude": 5.858163265306125,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13da4"
+  },
+  "Year": 1975,
+  "Counts": 150,
+  "Avg_Magnitude": 5.84866666666667,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13da5"
+  },
+  "Year": 1977,
+  "Counts": 148,
+  "Avg_Magnitude": 5.757432432432437,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13da6"
+  },
+  "Year": 2003,
+  "Counts": 187,
+  "Avg_Magnitude": 5.850802139037435,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13da7"
+  },
+  "Year": 2007,
+  "Counts": 211,
+  "Avg_Magnitude": 5.89099526066351,
+  "Max_Magnitude": 8.4
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13da8"
+  },
+  "Year": 1974,
+  "Counts": 147,
+  "Avg_Magnitude": 5.890476190476194,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13da9"
+  },
+  "Year": 2015,
+  "Counts": 175,
+  "Avg_Magnitude": 5.842857142857147,
+  "Max_Magnitude": 7.5
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13daa"
+  },
+  "Year": 2006,
+  "Counts": 176,
+  "Avg_Magnitude": 5.838068181818182,
+  "Max_Magnitude": 8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dab"
+  },
+  "Year": 1978,
+  "Counts": 158,
+  "Avg_Magnitude": 5.82215189873418,
+  "Max_Magnitude": 7.7
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dac"
+  },
+  "Year": 2013,
+  "Counts": 202,
+  "Avg_Magnitude": 5.861386138613864,
+  "Max_Magnitude": 8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dad"
+  },
+  "Year": 1988,
+  "Counts": 196,
+  "Avg_Magnitude": 5.926020408163269,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dae"
+  },
+  "Year": 1997,
+  "Counts": 183,
+  "Avg_Magnitude": 5.846448087431697,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13daf"
+  },
+  "Year": 1994,
+  "Counts": 215,
+  "Avg_Magnitude": 5.867441860465114,
+  "Max_Magnitude": 8.3
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db0"
+  },
+  "Year": 1968,
+  "Counts": 106,
+  "Avg_Magnitude": 6.070754716981133,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db1"
+  },
+  "Year": 2014,
+  "Counts": 198,
+  "Avg_Magnitude": 5.916666666666668,
+  "Max_Magnitude": 8.2
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db2"
+  },
+  "Year": 1973,
+  "Counts": 144,
+  "Avg_Magnitude": 5.833611111111111,
+  "Max_Magnitude": 7.4
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db3"
+  },
+  "Year": 1979,
+  "Counts": 118,
+  "Avg_Magnitude": 5.788983050847464,
+  "Max_Magnitude": 7.9
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db4"
+  },
+  "Year": 1971,
+  "Counts": 148,
+  "Avg_Magnitude": 5.986486486486491,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db5"
+  },
+  "Year": 1966,
+  "Counts": 98,
+  "Avg_Magnitude": 6.060714285714285,
+  "Max_Magnitude": 7.7
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db6"
+  },
+  "Year": 2004,
+  "Counts": 227,
+  "Avg_Magnitude": 5.8704845814978,
+  "Max_Magnitude": 7.5
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db7"
+  },
+  "Year": 1991,
+  "Counts": 168,
+  "Avg_Magnitude": 5.872023809523812,
+  "Max_Magnitude": 7.1
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db8"
+  },
+  "Year": 1967,
+  "Counts": 103,
+  "Avg_Magnitude": 5.9621359223300985,
+  "Max_Magnitude": 7.2
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13db9"
+  },
+  "Year": 1969,
+  "Counts": 114,
+  "Avg_Magnitude": 6.015789473684214,
+  "Max_Magnitude": 7.5
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dba"
+  },
+  "Year": 1982,
+  "Counts": 135,
+  "Avg_Magnitude": 5.8251851851851875,
+  "Max_Magnitude": 7.1
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dbb"
+  },
+  "Year": 1989,
+  "Counts": 177,
+  "Avg_Magnitude": 5.835593220338986,
+  "Max_Magnitude": 7.4
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dbc"
+  },
+  "Year": 1996,
+  "Counts": 242,
+  "Avg_Magnitude": 5.880578512396693,
+  "Max_Magnitude": 7.9
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dbd"
+  },
+  "Year": 1998,
+  "Counts": 154,
+  "Avg_Magnitude": 5.851948051948055,
+  "Max_Magnitude": 7.5
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dbe"
+  },
+  "Year": 1965,
+  "Counts": 156,
+  "Avg_Magnitude": 6.009615384615388,
+  "Max_Magnitude": 8.7
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dbf"
+  },
+  "Year": 1985,
+  "Counts": 210,
+  "Avg_Magnitude": 5.896476190476193,
+  "Max_Magnitude": 8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc0"
+  },
+  "Year": 1970,
+  "Counts": 142,
+  "Avg_Magnitude": 6.019718309859159,
+  "Max_Magnitude": 7.4
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc1"
+  },
+  "Year": 2012,
+  "Counts": 182,
+  "Avg_Magnitude": 5.8884615384615415,
+  "Max_Magnitude": 8.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc2"
+  },
+  "Year": 1987,
+  "Counts": 213,
+  "Avg_Magnitude": 5.928638497652586,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc3"
+  },
+  "Year": 2009,
+  "Counts": 228,
+  "Avg_Magnitude": 5.8885964912280695,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc4"
+  },
+  "Year": 2016,
+  "Counts": 164,
+  "Avg_Magnitude": 5.888048780487807,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc5"
+  },
+  "Year": 1995,
+  "Counts": 205,
+  "Avg_Magnitude": 5.9004878048780505,
+  "Max_Magnitude": 8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc6"
+  },
+  "Year": 1980,
+  "Counts": 120,
+  "Avg_Magnitude": 5.8435000000000015,
+  "Max_Magnitude": 7.5
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc7"
+  },
+  "Year": 2001,
+  "Counts": 157,
+  "Avg_Magnitude": 5.885350318471342,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc8"
+  },
+  "Year": 1972,
+  "Counts": 178,
+  "Avg_Magnitude": 5.931460674157305,
+  "Max_Magnitude": 8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dc9"
+  },
+  "Year": 1992,
+  "Counts": 190,
+  "Avg_Magnitude": 5.861421052631582,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dca"
+  },
+  "Year": 1983,
+  "Counts": 177,
+  "Avg_Magnitude": 5.868361581920908,
+  "Max_Magnitude": 7.4
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dcb"
+  },
+  "Year": 2005,
+  "Counts": 230,
+  "Avg_Magnitude": 5.850869565217394,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dcc"
+  },
+  "Year": 1984,
+  "Counts": 161,
+  "Avg_Magnitude": 5.849068322981371,
+  "Max_Magnitude": 7.6
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dcd"
+  },
+  "Year": 2000,
+  "Counts": 213,
+  "Avg_Magnitude": 5.899530516431923,
+  "Max_Magnitude": 7.9
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dce"
+  },
+  "Year": 1981,
+  "Counts": 117,
+  "Avg_Magnitude": 5.83931623931624,
+  "Max_Magnitude": 7.7
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dcf"
+  },
+  "Year": 2010,
+  "Counts": 211,
+  "Avg_Magnitude": 5.92170616113744,
+  "Max_Magnitude": 7.8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dd0"
+  },
+  "Year": 1986,
+  "Counts": 175,
+  "Avg_Magnitude": 5.812000000000003,
+  "Max_Magnitude": 8
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dd1"
+  },
+  "Year": 2011,
+  "Counts": 360,
+  "Avg_Magnitude": 5.882499999999996,
+  "Max_Magnitude": 9.1
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dd2"
+  },
+  "Year": 1976,
+  "Counts": 173,
+  "Avg_Magnitude": 5.785260115606937,
+  "Max_Magnitude": 7.5
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dd3"
+  },
+  "Year": 2008,
+  "Counts": 214,
+  "Avg_Magnitude": 5.914953271028041,
+  "Max_Magnitude": 7.9
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dd4"
+  },
+  "Year": 1999,
+  "Counts": 170,
+  "Avg_Magnitude": 5.881411764705888,
+  "Max_Magnitude": 7.4
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dd5"
+  },
+  "Year": 2002,
+  "Counts": 182,
+  "Avg_Magnitude": 5.87857142857143,
+  "Max_Magnitude": 7.9
+},
+{
+  "_id": {
+    "$oid": "6564a69ebef8d07904b13dd6"
+  },
+  "Year": 1993,
+  "Counts": 197,
+  "Avg_Magnitude": 5.907106598984773,
+  "Max_Magnitude": 7.8
+}]
